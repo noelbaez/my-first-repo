@@ -8,3 +8,4 @@ function multiply(a, b) {
 
 console.log(sum(2, 5))
 console.log(multiply(2, 5))
+console.log(multiply(10, 3))
