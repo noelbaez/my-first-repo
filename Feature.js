@@ -10,6 +10,10 @@ function multiply(a, b) {
     return a * b;
 }
 
+function latestFeature(name) {
+    return name;
+}
+
 console.log(sum(2,  5))
 console.log(multiply(2, 5))
 console.log(subtract(7, 2))
